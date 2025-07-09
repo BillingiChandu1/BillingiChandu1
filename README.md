@@ -23,14 +23,13 @@ Currently participating in exciting hackathons and building cool stuff! 🛠️�
 
 ### 📈 GitHub Stats
 
-![Chandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandu&show_icons=true&theme=radical)
+![Chandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillingiChandu1&show_icons=true&theme=radical)
 
 ---
 
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/your-link)
 
 ---
 
